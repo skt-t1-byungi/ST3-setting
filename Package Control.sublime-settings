@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"DocBlockr",
+		"IMESupport",
+		"Materialize",
+		"Package Control",
+		"PHP Companion",
+		"phpfmt",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}
