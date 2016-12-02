@@ -6,7 +6,7 @@
 	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Bittersweet (SL).tmTheme",
 	"drag_text": false,
 	"folder_exclude_patterns":
 	[
@@ -20,7 +20,7 @@
 	[
 		"directwrite"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"

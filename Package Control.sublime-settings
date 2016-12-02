@@ -10,14 +10,18 @@
 		"Colorsublime",
 		"DocBlockr",
 		"IMESupport",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
 		"Materialize",
 		"Package Control",
 		"PHP Companion",
+		"PHP-Twig",
 		"phpfmt",
 		"ProjectManager",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"SublimeLinter-php"
 	]
 }
