@@ -5,14 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"AlignTab",
 		"All Autocomplete",
 		"BracketHighlighter",
 		"Colorsublime",
 		"DocBlockr",
+		"HTML-CSS-JS Prettify",
 		"IMESupport",
+		"INI",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"Materialize",
+		"MoveTab",
 		"Package Control",
 		"PHP Companion",
 		"PHP-Twig",

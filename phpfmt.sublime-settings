@@ -1,6 +1,8 @@
 {
 	"autocomplete": true,
+	"enable_auto_align": true,
 	"format_on_save": true,
+	"psr1": true,
 	"psr2": true,
 	"version": 1
 }

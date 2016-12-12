@@ -1,12 +1,29 @@
 {
 	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"/F/Project/ServerModules/NewInnorixPHP/dev/**"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 2,
 	"caret_extra_top": 2,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Bittersweet (SL).tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/candy-crush.tmTheme",
 	"drag_text": false,
 	"folder_exclude_patterns":
 	[
@@ -20,7 +37,7 @@
 	[
 		"directwrite"
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
